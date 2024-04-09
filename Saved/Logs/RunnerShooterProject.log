@@ -1337,3 +1337,105 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.09-09.24.10:680][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2024.04.09-09.24.10:681][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
 [2024.04.09-09.24.10:751][768]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2024.04.09-09.25.53:645][949]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Pickup_Rifle.BP_Pickup_Rifle
+[2024.04.09-09.25.53:645][949]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.25.53:645][949]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-09.25.53:650][949]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.04.09-09.25.54:115][949]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.04.09-09.25.55:598][103]LogSlate: Window 'BP_Pickup_Rifle' being destroyed
+[2024.04.09-09.25.56:290][184]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
+[2024.04.09-09.26.14:164][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.14:303][287]LogSelectionDetails: Warning: NavigateToFunctionSource:  Unable to find source file and line number for 'AActor::AddComponent' [Élément introuvable.]
+[2024.04.09-09.26.15:092][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.22:070][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.22:119][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.22:129][112]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.23:276][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.04.09-09.26.23:276][235]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.23:276][235]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-09.26.29:360][923]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.04.09-09.26.29:363][923]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.04.09-09.26.29:363][923]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.04.09-09.26.29:364][923]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 1 ms (total: 3 ms)
+[2024.04.09-09.26.29:364][923]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.09-09.26.29:364][923]PIE: New page: PIE session: FirstPersonMap (9 avr. 2024 à 13:26:29)
+[2024.04.09-09.26.29:364][923]LogPlayLevel: Display: Creating online subsystem for client :Context_10
+[2024.04.09-09.26.29:366][923]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2024.04.09-09.26.29:371][924]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.09-09.26.29:373][924]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002706s)
+[2024.04.09-09.26.29:373][924]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.002725s)
+[2024.04.09-09.26.29:380][924]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.04.09-09.26.29:381][924]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.26.29:381][924]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-09.26.29:381][924]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.04.09-09.26.29:382][924]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.04.09-09.26.29:382][924]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.09-09.26.29:382][924]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.04.09-09.26.29:382][924]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.04.09-09.26.29:382][924]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.04.09-09.26.29:382][924]LogWorldPartition: Display: WorldPartition initialize took 758 us (total: 57 ms)
+[2024.04.09-09.26.29:382][924]LogPlayLevel: PIE: World Init took: (0.001546s)
+[2024.04.09-09.26.29:382][924]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.09-09.26.29:382][924]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.09-09.26.29:382][924]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.09-09.26.29:383][924]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.09-09.26.29:383][924]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.09-09.26.29:383][924]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.09-09.26.29:384][924]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.09-09.26.29:394][924]LogAudioMixer: Display: Using Audio Hardware Device PL2730H (NVIDIA High Definition Audio)
+[2024.04.09-09.26.29:394][924]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.09-09.26.29:394][924]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.09-09.26.29:394][924]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.09-09.26.29:395][924]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.09-09.26.29:395][924]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.09-09.26.29:396][924]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.09-09.26.29:396][924]LogInit: FAudioDevice initialized with ID 4.
+[2024.04.09-09.26.29:396][924]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.09-09.26.29:396][924]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2024.04.09-09.26.29:396][924]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.09-09.26.29:439][924]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-09.26.29:439][924]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.04.09-09.26.29:441][924]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.04.09-11.26.29
+[2024.04.09-09.26.29:441][924]LogWorld: Bringing up level for play took: 0.001225
+[2024.04.09-09.26.29:444][924]PIE: Server logged in
+[2024.04.09-09.26.29:444][924]PIE: Play in editor total start time 0,081 seconds.
+[2024.04.09-09.26.29:451][924]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2024.04.09-09.26.30:779][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.09-09.26.30:780][ 43]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.04.09-09.26.30:780][ 43]LogSlate: Window 'RunnerShooterProject Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.04.09-09.26.30:782][ 43]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.09-09.26.30:782][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-09.26.30:782][ 43]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.04.09-09.26.30:786][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.09-09.26.30:788][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.09-09.26.30:793][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.04.09-09.26.30:793][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.09-09.26.30:795][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.09-09.26.30:799][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.09-09.26.30:845][ 47]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2024.04.09-09.28.06:323][460]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.04.09-09.28.06:323][460]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.04.09-09.28.38:881][367]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.04.09-09.34.27:436][710]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.04.09-09.34.27:448][710]LogContentBrowser: Creating deferred item: NewFolder
+[2024.04.09-09.34.27:455][711]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.04.09-09.34.31:554][202]LogContentBrowser: Attempting asset rename: NewFolder -> Blueprints
+[2024.04.09-09.34.31:555][202]LogContentBrowser: End creating deferred item NewFolder
+[2024.04.09-09.34.36:076][714]LogSlate: Window 'Color Picker' being destroyed
+[2024.04.09-09.34.49:395][271]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.04.09-09.34.51:723][324]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.09-09.34.51:727][324]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.09-09.34.51:731][324]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.09-09.34.51:748][326]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.04.09-09.34.53:933][574]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Floor
+[2024.04.09-09.34.53:937][574]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.09-09.34.59:870][286]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/BP_Floor.BP_Floor
+[2024.04.09-09.34.59:870][286]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.04.09-09.34.59:870][286]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.09-09.34.59:932][286]LogViewport: Scene viewport resized to 1141x875, mode Windowed.
