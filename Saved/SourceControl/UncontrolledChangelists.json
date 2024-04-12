@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/Blueprints/BP_Floor.uasset",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/FirstPerson/Blueprints/BP_Pickup_Rifle.uasset",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/Maps/MainMap.umap",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/Blueprints/BP_FirstPersonGameMode.uasset",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/FirstPerson/Blueprints/BP_Weapon_Component.uasset",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/sch4r/Documents/Unreal_ShooterRunner/Content/FirstPerson/Maps/FirstPersonMap.umap",
 				"C:/Users/samuel.charlet/Documents/Unreal_ShooterRunner/Content/FirstPerson/Input/IMC_Default.uasset"
 			]
 		}
